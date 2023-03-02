@@ -1,1 +1,24 @@
 casos de prueba
+
+CARACTERISTICAS DEL JUEGO IDENTITY FORWARDED
+
+Gráficos
+1. Son simples, de bajos polígonos (low poly), no hay texturas de alta resolución y la mayoría de estructuras usan colores sólidos.
+
+2.    Interfaz
+El jugador puede ver en su pantalla un mapa en la esquina superior izquierda, si el jugador decide presionarlo, una versión más detallada será presentada en pantalla junto a las opciones del juego.
+Debajo del mapa se encuentra el control del personaje, una especie de Stick analógico que simula aquellos presentes en los joysticks de consola.
+Del lado derecho de la pantalla se puede ver la vida del jugador, la “energía” y los controles de Disparo, Mira y Salto.
+En la parte superior central está el medidor de Karma, este indica el tipo de personaje en el que se encarnará el jugador dependiendo de sus acciones una vez que ascienda.
+
+3.    Estabilidad
+El juego es estable, pero el rendimiento depende del dispositivo, los teléfonos celulares de mayor calidad no tendrán problema en correrlo sin problemas, pero aquellos de menor calidad van a tener deficiencias a la hora de cargar el mapa.
+El juego también lo probamos en Computadora mediante el emulador BlueStacks, ya que este permite cambiar la configuración interna del dispositivo.
+ 
+
+
+
+
+
+4.    Velocidad
+Utilizando BlueStacks se puede ver el promedio de FPS (Frames/Cuadros por Segundo).
